@@ -1,0 +1,5 @@
+classes= 5
+train=/data2/ggp/MNist/flower/tanke/images/trainvalno5k3.txt
+valid=/data2/ggp/MNist/flower/tanke/images/5k3.txt
+names=/home/hc/eriklindernoren/config/tanke.name
+backup=backup/
